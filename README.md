@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **Android, MERN Stack, Full Stack**
 
 - ⚡ Fun fact **Debugging is like being the detective in a crime movie where you’re also the murderer.**
 
