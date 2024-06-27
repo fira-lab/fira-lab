@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Firaol Terefe</h1>
 <h3 align="center">I am an Exceptional MERN Stack Developer, Ai Engineer, Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
