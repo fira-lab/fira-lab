@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firaol Terefe</h1>
-<h3 align="center">I am an Exceptional MERN Stack Developer, Ai Engineer, Full Stack Developer</h3>
+<h3 align="center">I am an Exceptional MERN Stack Developer, Machine Learning Engineer, Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fira-lab&label=Profile%20views&color=0e75b6&style=flat" alt="fira-lab" /> </p>
