@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Firaol Terefe</h1>
-<h3 align="center">I am an Exceptional MERN Stack Developer, Machine Learning Engineer, Full Stack Developer</h3>
+<h3 align="center">I’m a passionate Software Engineer specialized in AI Engineering and Full Stack developer  from Ethiopia, known for solving real-world problems through innovation</h3>
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fira-lab&label=Profile%20views&color=0e75b6&style=flat" alt="fira-lab" /> </p>
 
 <p align="left"> <a href="https://twitter.com/firaol terefe" target="blank"><img src="https://img.shields.io/twitter/follow/firaol terefe?logo=twitter&style=for-the-badge" alt="firaol terefe" /></a> </p>
 
-- 🔭 I’m currently working on **eagleDemy Educative platform**
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **MERN Stack, Full Stack, Machine Learning**
+- 🔭 I build and deploy **production AI & full-stack solutions** almost every day — focused on Ethiopian education, government transparency, and multilingual accessibility  
+  (Many projects are private/client/internal, so you might not see them all on GitHub — feel free to ask!)
+- 🌱 Currently leveling up **advanced LLM integrations**, RAG patterns, secure auth systems, and Vercel/Cloudflare workflows
+- 💬 Chat with me or my **personal AI assistant** to hear details about Hedase AI (13 languages for GERD info), EagleDemy edtech (150+ users Week 1), secure e-commerce with National ID, or anything AI/full-stack related in emerging markets
 
 - ⚡ Fun fact **Debugging is like being the detective in a crime movie where you’re also the murderer.**
 
