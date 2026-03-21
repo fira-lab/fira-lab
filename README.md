@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Firaol Terefe</h1>
-<h3 align="center">I’m a passionate Software Engineer specialized in AI Engineering and Full Stack developer  from Ethiopia, known for solving real-world problems through innovation</h3>
+<h1 align="center">Hi 👋, I'm Firaol Terefe – AI & Full-Stack Engineer from Ethiopia.</h1>
+<h3 align="center">I'm passionate about solving real-world problems through innovative AI and full-stack development, with a focus on education, accessibility, and impact in African contexts.</h3>
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fira-lab&label=Profile%20views&color=0e75b6&style=flat" alt="fira-lab" /> </p>
 
 <p align="left"> <a href="https://twitter.com/firaol terefe" target="blank"><img src="https://img.shields.io/twitter/follow/firaol terefe?logo=twitter&style=for-the-badge" alt="firaol terefe" /></a> </p>
 
-- 🔭 I build and deploy **production AI & full-stack solutions** almost every day — focused on Ethiopian education, government transparency, and multilingual accessibility  
-  (Many projects are private/client/internal, so you might not see them all on GitHub — feel free to ask!)
-- 🌱 Currently leveling up **advanced LLM integrations**, RAG patterns, secure auth systems, and Vercel/Cloudflare workflows
-- 💬 Chat with me or my **personal AI assistant** to hear details about Hedase AI (13 languages for GERD info), EagleDemy edtech (150+ users Week 1), secure e-commerce with National ID, or anything AI/full-stack related in emerging markets
+I'm passionate about solving real-world problems through innovative AI and full-stack development, with a focus on education, accessibility, and impact in African contexts.
+
+**Key highlight**: 2nd Place Winner in the Bybit Africa Scholarship Program (Kenya/Ethiopia Edition, Sep–Oct 2025) – awarded $2,000 for my AI-driven educational solution via **EagleDemy AI** (helping Ethiopian students with MOE-based courses, study schedules, and department recommendations).
+
+- 🔭 Currently building & deploying AI-powered edtech and multilingual tools daily (many projects are private/client-based — feel free to ask!)
+- 🌱 Deepening skills in multilingual LLMs, production AI (Next.js + Vercel), and secure full-stack systems
+- 💬 Ask me (or chat with my personal AI assistant) about **multilingual AI** (Amharic/Afaan Oromo + others), **MERN/Next.js stacks**, **edtech innovations**, **Hedase AI**, **EagleDemy**, or real-world AI in emerging markets
 
 - ⚡ Fun fact **Debugging is like being the detective in a crime movie where you’re also the murderer.**
 
