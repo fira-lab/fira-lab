@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firaol Terefe – AI & Full-Stack Engineer from Ethiopia.</h1>
+<h1 align="center">Hi 👋, I'm Firaol Terefe – AI & Full-Stack Engineer.</h1>
 <h3 align="center">I'm passionate about solving real-world problems through innovative AI and full-stack development, with a focus on education, accessibility, and impact in African contexts.</h3>
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
